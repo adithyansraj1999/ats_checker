@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python ats_checker.py /path/to/your/resume.pdf
+python ats_checker.py
 ```
 
 ## Contributing
